@@ -1,0 +1,22 @@
+{
+    "name": "rc/datamapper",
+    "description": "a simple data mapper",
+    "require": {
+        "doctrine/dbal": "2.5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5.0"
+    },
+    "autoload":
+    {
+        "psr-4": {
+            "rc\\" : "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Calleja",
+            "email": "rafaelcalleja@gmail.com"
+        }
+    ]
+}
