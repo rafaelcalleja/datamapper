@@ -1,6 +1,6 @@
 <?php
 
-namespace rc;
+namespace rc\Domain\Model\Person;
 
 class Person
 {

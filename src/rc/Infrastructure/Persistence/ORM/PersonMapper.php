@@ -1,6 +1,8 @@
 <?php
 
-namespace rc;
+namespace rc\Infrastructure\Persistence\ORM;
+
+use rc\Domain\Model\Person\Person;
 
 class PersonMapper extends AbstractMapper
 {

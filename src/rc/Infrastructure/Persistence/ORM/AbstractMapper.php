@@ -1,6 +1,6 @@
 <?php
 
-namespace rc;
+namespace rc\Infrastructure\Persistence\ORM;
 
 use Doctrine\DBAL\Connection;
 
